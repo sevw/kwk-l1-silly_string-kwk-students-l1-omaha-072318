@@ -1,0 +1,2 @@
+name = "seven"
+puts name
